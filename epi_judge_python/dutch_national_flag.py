@@ -9,7 +9,7 @@ RED, WHITE, BLUE = range(3)
 
 
 def dutch_flag_partition(pivot_index: int, A: List[int]) -> None:
-    # TODO - you fill in here. teste
+    # TODO - you fill in here. testee
     num = A[pivot_index]
     x, y  = 0, len(A)-1
 
